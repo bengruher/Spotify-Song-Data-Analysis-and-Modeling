@@ -1,3 +1,3 @@
-# SpotifySongAnalysis
+# Spotify Song Analysis
 
-See Jupyter notebook for data exploration and analysis.
+Exploratory data analysis and preliminary modeling of Spotify song dataset. See Jupyter notebook for details.
